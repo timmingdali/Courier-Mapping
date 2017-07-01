@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< .mine
+            <file>file:/homes/l/liming24/NetBeansProjects/ECE297/mapper/libstreetmap/src/load_map.h</file>
+            <file>file:/homes/l/liming24/NetBeansProjects/ECE297/mapper/libstreetmap/src/m3.cpp</file>
+            <file>file:/homes/l/liming24/NetBeansProjects/ECE297/mapper/libstreetmap/src/load_map.cpp</file>
+=======
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/Help_Print_Funcs.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/API_module.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/Surface.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/TSP_supplementary.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/FuzzySearch_POI.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/courier_verify.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/m4_helper.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/RTREE.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/graphics_types.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/Scale_dict.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/interface.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/Fuzzy_Search_Lib.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/load_map.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/m2.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/path_verify.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/routeInstruction.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/tests/tester_main.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/graphics_types.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/API_module.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/Surface.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/interface.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/Scale_dict.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/m3.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/TSP.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/path_verify.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/main/src/main.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/routeInstruction.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/m4.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/FuzzySearch.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/graphics_state.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/StreetGraphEdges.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/FuzzySearch.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/unit_test_util.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/load_map.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/RTREE.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/Fuzzy_Search_Lib.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/graphics.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/FuzzySearch_POI.h</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/easygl/graphics.cpp</file>
+            <file>file:/homes/l/lixin39/ECE297059/mapper/libstreetmap/src/StreetGraphEdges.h</file>
+>>>>>>> .r123
+        </group>
+    </open-files>
+</project-private>
